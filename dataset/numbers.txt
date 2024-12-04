@@ -1,0 +1,77 @@
+
+Here are some sample contents for three text files: names.txt, strings.txt, and numbers.txt.
+
+1. names.txt
+This file contains a list of names.
+
+Copy code
+Alice
+Bob
+Charlie
+David
+Eve
+Frank
+Grace
+Hannah
+Isaac
+Jack
+Kate
+Leo
+Mona
+Nina
+Oliver
+Paul
+Quinn
+Rachel
+Steve
+Tina
+2. strings.txt
+This file contains a list of random strings (words and phrases).
+
+sql
+Copy code
+hello world
+python programming
+open source
+data science
+machine learning
+artificial intelligence
+cloud computing
+deep learning
+chatbot system
+automation tools
+natural language processing
+web development
+software engineering
+system design
+algorithms and data structures
+virtual reality
+augmented reality
+data visualization
+blockchain technology
+quantum computing
+3. numbers.txt
+This file contains a list of numbers.
+
+yaml
+Copy code
+10
+25
+37
+42
+59
+64
+78
+83
+99
+123
+150
+200
+250
+500
+1000
+1500
+2500
+3500
+4500
+5000
